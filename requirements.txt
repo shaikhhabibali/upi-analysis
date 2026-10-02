@@ -7,3 +7,4 @@ statsmodels
 scikit-learn
 openpyxl
 jupyterlab
+mysql-connector-python==26.7.0

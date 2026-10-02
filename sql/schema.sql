@@ -3,7 +3,7 @@
 DROP TABLE IF EXISTS upi_monthly;
 
 CREATE TABLE upi_monthly (
-    date                  TEXT PRIMARY KEY,
+    date                  VARCHAR(10) PRIMARY KEY,
     month                 TEXT NOT NULL,
     financial_year        TEXT NOT NULL,
     month_number          INTEGER NOT NULL,
