@@ -396,6 +396,19 @@ The project currently includes the complete analytics workflow, forecasting pipe
 
 ---
 
+## Dashboard Preview
+
+### Executive Dashboard
+
+![UPI Executive Dashboard](images/05_executive_dashboard.png)
+
+The Executive Dashboard provides a single-screen view of UPI transaction scale, growth, seasonality, ticket size trends, and forecast performance.
+
+Detailed dashboard screenshots are available in the `images/` folder.
+
+
+---
+
 ## Author
 
 **Shaikh Habib Ali**
