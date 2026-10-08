@@ -133,7 +133,7 @@ EDA visuals are available in:
 
 `images/`
 
-pp-level or user-level behaviour cannot be inferred:
+Interactive HTML charts are available in:
 
 `dashboard/charts/`
 
